@@ -1,6 +1,6 @@
 body{
     color:white;
-    background-color: black;
+    background-color: rgb(20, 23, 48);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -28,7 +28,7 @@ header img{
 }
 
 h1{
-    color: chartreuse;
+    color: rgb(64, 114, 13);
     text-align: center;
 }
 
