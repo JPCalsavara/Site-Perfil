@@ -26,7 +26,7 @@ O site é baseado no vídeo da Adriana Saty: [Assista aqui](https://www.youtube.
    Navegue até a pasta do projeto clonado:
    No terminal, execute o seguinte comando para clonar o repositório:  
    ```bash
-   git clone https://github.com/usuario/site-perfil.git
+   git clone git@github.com:JPCalsavara/Site-Perfil.git
    
 2. **Acesso ao diretório**  
    Certifique-se de que o [Git](https://git-scm.com/) está instalado no seu computador.  
